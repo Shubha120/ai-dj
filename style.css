@@ -1,0 +1,53 @@
+.h3{
+    width:100%;
+    margin:0px;
+    font-size:25px;
+    color:azure;
+}
+
+span{
+    font-size:15px;
+    color:black;
+}
+body{
+    background-size:cover;
+
+}
+
+.speed{
+    float:left;
+}
+
+.volume{
+    float:right;
+}
+
+img{
+    width:200px;
+    border-radius:100px;
+}
+#Speed{
+    font-size:25px;
+    margin:15px;
+    font-weight:bolder;
+}
+
+#Volume{
+    font-size:25px;
+    margin:15px;
+    font-weight:bolder;
+}
+.Play{
+    font-size:25px;
+    margin:15px;
+    font-weight:bolder;
+    width:150px;
+    color:beige;
+}
+
+canvas{
+    border:7px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 15px blue;
+
+}
